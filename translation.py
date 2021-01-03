@@ -38,7 +38,7 @@ URL | filename | username | password"""
 PATCHED BY @rahulnath96
 
 Movie Channel @StreamersHub"""
-    HELP_USER = """Hai am URL Uploader bot.
+    HELP_USER = """Hi, I am URL Uploader bot.
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
