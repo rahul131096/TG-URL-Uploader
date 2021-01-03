@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
-
+# (c) Shrimadhav U K | @AbirHasan2005
 # the logging things
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -323,9 +322,9 @@ async def youtube_dl_call_back(bot, update):
             media_album_p = []
             if images is not None:
                 i = 0
-                caption = "© @TGBotsZ"
+                caption = "© @StreamersHub"
                 if is_w_f:
-                    caption = "/upgrade to Plan D to remove the watermark\n© @AnyDLBot"
+                    caption = "Movies Channel: @StreamersHub"
                 for image in images:
                     if os.path.exists(image):
                         if i == 0:
