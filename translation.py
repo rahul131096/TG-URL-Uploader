@@ -8,10 +8,12 @@ class Translation(object):
 🏷️ for more details /help
 
 👲Bot By: @rahulnath96
+
+🎬 Movies Channel: @StreamersHub
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "<b>No Need to Upgrade 🤣🤣🤣 </b>Patched by @AbirHasan2005"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -32,11 +34,10 @@ URL | filename | username | password"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """Current plan details
---------
-Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
-Expires on: 31/12/2025"""
+    CURENT_PLAN_DETAILS = """Nothing here 🤣🤣🤣
+PATCHED BY @rahulnath96
+
+Movie Channel @StreamersHub"""
     HELP_USER = """Hai am URL Uploader bot.
     
 1. Send url (Link | New Name with Extension).
@@ -48,6 +49,8 @@ Expires on: 31/12/2025"""
    DFile  - Give File without Screenshots
    
 Made with ♥️ by @rahulnath96
+
+Movies Channel @StreamersHub 😎
 """
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
